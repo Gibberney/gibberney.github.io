@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>I’m Not a Developer, But I Did Build and Launch a Web App in 3 Days.</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background-color: #fdfdfd;
+      color: #222;
+      max-width: 750px;
+      margin: 60px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 10px;
+      margin-bottom: 40px;
+    }
+
+    header a {
+      color: #41414a;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    header a:hover {
+      text-decoration: underline;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 0.6em;
+    }
+
+    h2 {
+      font-size: 1.5em;
+      margin-top: 2em;
+    }
+
+    ul {
+      margin-top: 1em;
+      padding-left: 1.2em;
+    }
+
+    li {
+      margin-bottom: 0.5em;
+    }
+
+    em {
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="../index.html">Mike Gibney</a>
+    <a href="https://linkedin.com/in/michaeldgibney" target="_blank">LinkedIn</a>
+  </header>
+  <h1>I’m Not a Developer, But I Did Build and Launch a Web App in 3 Days.</h1>
+
+  <p>Like a lot of people working in tech, I’ve spent years entertaining side project ideas that never made it past the back of a napkin—or, more realistically, slide 5 of a Google deck. Every now and then, I’d even go as far as firing up a splash page for some B2B SaaS concept that was definitely going to disrupt something. Usually, that meant me staying up late, slapping some copy into SquareSpace, and convincing myself that was progress.</p>
+
+  <p>But when it came to actually building anything with functionality, I’d tap out. I don’t write code. I’ve spent nearly a decade working at a SaaS company, but I’ve always sat on the client-facing side: onboarding, pre-sales, analytics, operations. I understand software, I know how to help people use it, and I can demo it. But historically? I wasn’t the one writing it.</p>
+
+  <p>Until Christmas break.</p>
+
+  <p>Over the course of three nights, after my wife went to bed, I built and launched <a href="https://dailyrat.fun" target="_blank">DailyRAT.fun</a>, a daily word association game that’s now live and being played by strangers on the internet. Every day you’re given three seemingly unrelated words. Your job is to guess the one word that turns all three into a compound word. (Example: “black, hill, table” → top.)</p>
+
+  <p>It’s fun. It’s weird. It works. And I learned a lot.</p>
+
+  <h2>This Isn’t a Rags-to-Ruby-on-Rails Story</h2>
+
+  <p>Let’s get this out of the way: I didn’t suddenly learn how to code and grind out a full-stack app from scratch over a long weekend.</p>
+
+  <p>I vibe coded my way through the entire thing with ChatGPT. I would describe what I wanted—“Make a page that shows the puzzle and a timer that starts when someone types”—and ChatGPT would write the code. I’d paste it into PyCharm, refresh the browser, and tweak as needed. If it broke? I copied the error back into ChatGPT and asked what I was doing wrong.</p>
+
+  <p>It wasn’t elegant. But it was fast.</p>
+
+  <p>People love to write about the death of traditional coding or how vibe coding is shallow or dangerous. I’m not here to argue that. What I will say is this: AI made it possible for me, a non-dev, to go from an idea to a working, live app on my own—with functionality, a database, and daily engagement.</p>
+
+  <p>That felt like having superpowers.</p>
+
+  <h2>I Built It With My Brother. That Was... a Choice.</h2>
+
+  <p>The original idea for The Daily RAT came from my brother. He’d been noodling on the concept for years but never found the time to build it. Over the holidays, we decided to finally give it a shot.</p>
+
+  <p>My brother and I have a lot in common—we share the same hobbies, gravitate toward the same books, and nerd out over the same oddly specific topics. But we fundamentally disagree on how we approach those shared interests.</p>
+
+  <p>He is a biomedical engineer. He’s methodical. He runs the numbers, tests in small batches, reads between the lines, and plans five steps ahead. I… do none of that. I move fast, get in over my head, break things along the way, and usually surface on the other side of an endeavor with a few avoidable bruises.</p>
+
+  <p>So naturally, we decided to build a product together.</p>
+
+  <p>From day one, it was clear we were going to clash. What started as a fun holiday side project quickly turned into a full-on design debate: the size of the timer, the shape of the buttons, whether or not to reveal user stats on the homepage. We had a Google Slides deck full of mockups—most of which contradicted each other—and, at one point, separate lists of user feedback that rarely overlapped.</p>
+
+  <p>There’s no buffer when you’re working with someone who’s known you since birth. Every disagreement was immediate and blunt. We didn’t hold back. But the upside was speed. The friction forced us to make decisions faster, to compromise, to prioritize what mattered most so we could get something out the door before we had to go back to our day jobs.</p>
+
+  <p>It was a crash course in product tradeoffs, collaboration under pressure, and the kind of “ship it” mentality that every SaaS company tries to instill, but rarely gets to practice this viscerally. It was frustrating at times, but also exhilarating. I’m not sure my brother would agree on the latter.</p>
+
+  <p>It also mirrored the dynamics I see every day in my work—just with more colorful language and no HR to intervene.</p>
+
+  <h2>I Learned a Few Things</h2>
+
+  <p>Launching <a href="https://dailyrat.fun" target="_blank">DailyRAT.fun</a> gave me more than a quirky side project to post on LinkedIn. It gave me perspective I didn’t even know I was missing.</p>
+
+  <p>At my job, I oversee solutions—presales, onboarding, analytics. My teams live in the messy middle between the client and the product. We spend our days translating needs, defining scope, and helping people get value out of our platform.</p>
+
+  <p>Building this game gave me more empathy than any cross-functional meeting ever could.</p>
+
+  <ul>
+    <li>I now know what it feels like to get a vague feature request and realize you need to build three other things first.</li>
+    <li>I’ve felt the friction of having to debug something you don’t fully understand at 1:00am.</li>
+    <li>I better appreciate what it means to hit a deadline not because you’re ready, but because it’s time to ship.</li>
+  </ul>
+
+  <p>I’ve carried that energy back to work with me. I ask better questions. I scope projects more realistically. I respect the "hidden" layers of tech work—the stuff you don’t see in the demo.</p>
+
+  <h2>It’s Not a Viral App. But It’s Real.</h2>
+
+  <p>Let’s be clear: this didn’t blow up and I am in no position to create word puzzles full time. We didn’t go viral on TikTok. There’s no exit strategy.</p>
+
+  <p>But it’s real. People play it every day. We’ve gotten feedback. We’ve made updates. It’s out there.</p>
+
+  <p>And honestly, that alone has been incredibly rewarding.</p>
+
+  <p>There’s something about going from “I wonder if...” to “Here’s the link.” that unlocks a different kind of confidence. Even if you work in tech, even if you understand the build process, there's still magic in making something that works.</p>
+
+  <h2>If You’re a Non-Dev in Tech: Build Anyway</h2>
+
+  <p>You don’t need to become a software engineer to build something.</p>
+
+  <p>You just need:</p>
+  <ul>
+    <li>A problem you want to solve (or a game you want to play)</li>
+    <li>A willingness to break things</li>
+    <li>Some midnight oil to burn</li>
+    <li>A subscription to ChatGPT</li>
+  </ul>
+
+  <p>If you’re like me, deep in tech but not quite technical, there’s never been a better time to build. AI tools have collapsed the distance between idea and execution. You can create something functional, useful, and real without waiting for a sprint, a ticket, or an approval.</p>
+
+  <p>The next time you’re sitting on a half-baked idea, give it a shot.</p>
+</body>
+</html>
