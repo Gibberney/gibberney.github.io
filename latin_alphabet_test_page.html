@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Latin Alphabet Diacritics — Web Scanner Test Page</title>
+  <meta name="description" content="niño, ação, élève, Straße, caffè, coöperatie, ångström, språk, smørrebrød, käsi, fjörður, łąka, čaj, țară, öğrenci, këngë, qiegħ">
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; line-height: 1.55; margin: 0; padding: 0; background: #0b0f14; color: #e7ecef; }
+    header, footer { background: #111824; padding: 1.25rem 1rem; }
+    main { padding: 1.25rem; max-width: 1100px; margin: 0 auto; }
+    h1, h2 { line-height: 1.2; }
+    h1 { margin: 0 0 .5rem; }
+    section { border: 1px solid #223043; border-radius: 12px; padding: 1rem; margin: 1rem 0; background: #0f1622; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: .75rem; }
+    .badge { display: inline-block; background: #1a2435; border: 1px solid #21314a; padding: .35rem .5rem; border-radius: .65rem; font-size: .95rem; margin: .2rem; }
+    .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
+    table { width: 100%; border-collapse: collapse; margin-top: .5rem; }
+    th, td { border: 1px solid #233349; padding: .5rem .6rem; text-align: left; }
+    th { background: #0f2033; }
+    code { background: #111b28; padding: .1rem .25rem; border-radius: 6px; }
+    a { color: #8ecbff; }
+    small.note { color: #9fb3c8; }
+    .muted { color: #9fb3c8; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Latin Alphabet Diacritics — Web Scanner Test Page</h1>
+    <p class="muted">This page contains words with special characters/diacritics used across many Latin‑alphabet languages.
+      It purposely places words in multiple contexts (headings, lists, tables, attributes, <code>alt</code> text, <code>title</code>, <code>data-*</code>, JSON‑LD, placeholders) to exercise different scraping/extraction paths.</p>
+  </header>
+
+  <main>
+    <section id="links-and-attrs">
+      <h2>Links, Attributes, and Alt Text</h2>
+      <div class="grid">
+        <a href="#es" title="niño corazón año jalapeño música" data-words="niño,corazón,año,jalapeño,música" aria-label="Spanish sample — niño, corazón, año, jalapeño, música">Spanish samples</a>
+        <a href="#pt" title="ação português manhã açúcar avô/avó" data-words="ação,português,manhã,açúcar,avô,avó">Portuguese samples</a>
+        <a href="#fr" title="élève façade Noël rôle œuf" data-words="élève,façade,Noël,rôle,œuf">French samples</a>
+        <a href="#de" title="Straße ändern Grüße schön äußern" data-words="Straße,ändern,Grüße,schön,äußern">German samples</a>
+        <a href="#fi" title="käsi yö pää mökki ystävä">Finnish samples</a>
+        <a href="#tr" title="öğrenci çiçek ğüneş şeker İzmir">Turkish samples</a>
+      </div>
+      <figure>
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="ånga, språk, smørrebrød, fjörður, łąka, čaj, țară, öğrenci, këngë, qiegħ" />
+        <figcaption class="muted">Transparent test image with <code>alt</code> text containing diacritics.</figcaption>
+      </figure>
+    </section>
+
+    <section id="tabular">
+      <h2>Tabular Samples</h2>
+      <table aria-label="Diacritics test table">
+        <thead>
+          <tr><th>Language</th><th>Words</th></tr>
+        </thead>
+        <tbody>
+          <tr id="es"><td>Spanish</td><td>niño; corazón; año; jalapeño; música</td></tr>
+          <tr id="pt"><td>Portuguese</td><td>ação; português; manhã; açúcar; avô; avó</td></tr>
+          <tr id="fr"><td>French</td><td>élève; façade; Noël; rôle; œuf</td></tr>
+          <tr id="de"><td>German</td><td>Straße; ändern; Grüße; schön; äußern</td></tr>
+          <tr id="it"><td>Italian</td><td>caffè; città; più; perché; così</td></tr>
+          <tr id="nl"><td>Dutch</td><td>één; Zoë; coöperatie; café; maîtresse</td></tr>
+          <tr id="sv"><td>Swedish</td><td>ångström; smörgås; blåbär; öl; frö</td></tr>
+          <tr id="no"><td>Norwegian</td><td>språk; gård; brød; blå; hjertefölelse</td></tr>
+          <tr id="da"><td>Danish</td><td>smørrebrød; løg; møde; åben; fødselsdag</td></tr>
+          <tr id="fi"><td>Finnish</td><td>käsi; yö; pää; mökki; ystävä</td></tr>
+          <tr id="is"><td>Icelandic</td><td>ást; fjörður; bæ; hæð; íslenska</td></tr>
+          <tr id="pl"><td>Polish</td><td>łąka; źródło; pięć; żółć; chrząszcz</td></tr>
+          <tr id="cs"><td>Czech</td><td>čaj; kůň; židle; řeka; šťastný</td></tr>
+          <tr id="sk"><td>Slovak</td><td>ľudia; čítať; žiť; ôsmy; Ľubomír</td></tr>
+          <tr id="hr"><td>Croatian</td><td>čovjek; ljepša; riječ; čokolada; županija</td></tr>
+          <tr id="bs"><td>Bosnian</td><td>džem; šuma; ćevapčići; žarulja; čaršija</td></tr>
+          <tr id="sr"><td>Serbian (Latin)</td><td>đavo; čudesno; žurka; ćirilica; njiva</td></tr>
+          <tr id="sl"><td>Slovenian</td><td>ljubezen; čevlji; žoga; šola; računalnik</td></tr>
+          <tr id="hu"><td>Hungarian</td><td>ősz; tükör; kék; árvíztűrő; ló</td></tr>
+          <tr id="ro"><td>Romanian</td><td>țară; școală; România; mâncare; pădure</td></tr>
+          <tr id="tr"><td>Turkish</td><td>öğrenci; çiçek; ğüneş; şeker; İzmir</td></tr>
+          <tr id="sq"><td>Albanian</td><td>këngë; gjuhë; qytet; shëndet; ëndërr</td></tr>
+          <tr id="mt"><td>Maltese</td><td>qiegħ; għażla; ħobż; żmien; ċans</td></tr>
+          <tr id="lv"><td>Latvian</td><td>bērns; šķērslis; ābols; mēness; čūska</td></tr>
+          <tr id="lt"><td>Lithuanian</td><td>ąžuolas; širdis; žuvis; ėsti; ūdra</td></tr>
+          <tr id="et"><td>Estonian</td><td>käsi; õlu; süüa; öö; rõõm</td></tr>
+          <tr id="ga"><td>Irish</td><td>Éire; fáilte; múinteoir; Gaeltacht; críoch</td></tr>
+          <tr id="cy"><td>Welsh</td><td>Cymru; llwyth; ffrind; ŵyl; drws</td></tr>
+          <tr id="eu"><td>Basque</td><td>euskara; zubía; oñati; etxë; gaztë</td></tr>
+        </tbody>
+      </table>
+      <p><small class="note">Note: Entries include characters like œ, ß, ř, Ł/ł, Ș/Ț, Ğ/ğ, Ħ/ħ, and more.</small></p>
+    </section>
+
+    <section id="lists">
+      <h2>Unordered Lists</h2>
+      <ul>
+        <li data-word="œuf">œuf</li>
+        <li data-word="Straße">Straße</li>
+        <li data-word="caffè">caffè</li>
+        <li data-word="coöperatie">coöperatie</li>
+        <li data-word="smörgås">smörgås</li>
+        <li data-word="đavo">đavo</li>
+        <li data-word="țară">țară</li>
+        <li data-word="qiegħ">qiegħ</li>
+        <li data-word="łąka">łąka</li>
+        <li data-word="čaj">čaj</li>
+      </ul>
+    </section>
+
+    <section id="form">
+      <h2>Form and Placeholders</h2>
+      <form>
+        <label for="search" title="Sök blåbär, öl, frö">Search</label>
+        <input id="search" name="search" type="text" placeholder="niño, ação, élève, Straße, caffè, coöperatie">
+        <button type="submit" title="școală / țară / România">Submit</button>
+      </form>
+    </section>
+
+    <section id="hidden">
+      <h2>Visually Hidden Text (still in DOM)</h2>
+      <p class="sr-only" aria-hidden="false">Hidden but accessible words: ősz, møde, řeka, Ľubomír, županija, ćevapčići, šola, pădure.</p>
+    </section>
+
+    <section id="pre">
+      <h2>Preformatted / Code Context</h2>
+      <pre aria-label="preformatted-diacritics">niño; ação; élève; Straße; caffè; coöperatie; ångström; språk; smørrebrød; käsi; fjörður; łąka; čaj; ľudia; čovjek; džem; đavo; ljubezen; ősz; țară; öğrenci; këngë; qiegħ; bērns; ąžuolas; käsi; Éire; Cymru; euskara</pre>
+    </section>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dataset",
+      "name": "Latin Alphabet Diacritics Test",
+      "keywords": ["niño","ação","élève","Straße","caffè","coöperatie","ångström","språk","smørrebrød","käsi","fjörður","łąka","čaj","ľudia","čovjek","džem","đavo","ljubezen","ősz","țară","öğrenci","këngë","qiegħ","bērns","ąžuolas","Éire","Cymru","euskara"]
+    }
+    </script>
+  </main>
+
+  <footer>
+    <p><small>© Test Page • Last updated 2025‑09‑08 • Encoding: UTF‑8.</small></p>
+  </footer>
+</body>
+</html>
