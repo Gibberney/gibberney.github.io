@@ -17,9 +17,9 @@
     {
       "id": 3,
       "prompt": "Nietzsche declared God is dead and invented the Superman \u2014 then spent his last 11 years in a catatonic stupor being cared for by his mother after having a breakdown hugging a horse in the street in Turin. A meditation on what happens when history's most forceful philosopher of pure will and radical self-determination completely loses his mind in the most undignified way imaginable",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-03-12",
+      "article_file": "blog/2026-03-12-nietzsches-breakdown-when-the-philosopher-became-the-patient.html"
     },
     {
       "id": 4,
