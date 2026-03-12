@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {"id": 1, "prompt": "What it actually feels like to be a non-technical person surrounded by engineers all day — the imposter syndrome, the small wins, and what you've learned to stop apologizing for", "used": false, "published_date": null, "article_file": null},
+    {"id": 2, "prompt": "How AI tools have changed the way you prep for sales calls and customer meetings — what works, what doesn't, and where you still rely on gut instinct over automation", "used": false, "published_date": null, "article_file": null},
+    {"id": 3, "prompt": "The honest truth about what data-driven actually means at most companies — and the gap between what gets measured and what actually matters", "used": false, "published_date": null, "article_file": null},
+    {"id": 4, "prompt": "What building a side project taught you about product management that no job ever did — the decisions you didn't expect to have to make", "used": false, "published_date": null, "article_file": null},
+    {"id": 5, "prompt": "The stuff nobody warns you about when you move from individual contributor to managing a team — what changed, what surprised you, and what you wish you'd done differently", "used": false, "published_date": null, "article_file": null},
+    {"id": 6, "prompt": "How to stay relevant in a tech industry that keeps moving the goalposts — honest advice for people who aren't coders but want to keep up", "used": false, "published_date": null, "article_file": null},
+    {"id": 7, "prompt": "What good onboarding actually looks like from the customer's side — the moments that made you feel confident versus the moments that made you want to cancel", "used": false, "published_date": null, "article_file": null},
+    {"id": 8, "prompt": "The real reason most SaaS demos fail — and what a great one actually looks like from someone who has sat through hundreds of them", "used": false, "published_date": null, "article_file": null}
+  ]
+}
