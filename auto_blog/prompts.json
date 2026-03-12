@@ -2,10 +2,10 @@
   "articles": [
     {
       "id": 1,
-      "prompt": "A critique of Henry David Thoreau's Walden — the man who wrote the defining book on self-reliance and rejecting civilization quietly left after two years and had been staying on his friend Emerson's property the whole time, with his mother doing his laundry. What does it mean when our most celebrated champion of independence was basically glamping on borrowed land with a packed lunch?",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "prompt": "A critique of Henry David Thoreau's Walden \u2014 the man who wrote the defining book on self-reliance and rejecting civilization quietly left after two years and had been staying on his friend Emerson's property the whole time, with his mother doing his laundry. What does it mean when our most celebrated champion of independence was basically glamping on borrowed land with a packed lunch?",
+      "used": true,
+      "published_date": "2026-03-12",
+      "article_file": "blog/2026-03-12-walden-glamping-and-the-gig-economy.html"
     },
     {
       "id": 2,
@@ -16,21 +16,21 @@
     },
     {
       "id": 3,
-      "prompt": "Nietzsche declared God is dead and invented the Superman — then spent his last 11 years in a catatonic stupor being cared for by his mother after having a breakdown hugging a horse in the street in Turin. A meditation on what happens when history's most forceful philosopher of pure will and radical self-determination completely loses his mind in the most undignified way imaginable",
+      "prompt": "Nietzsche declared God is dead and invented the Superman \u2014 then spent his last 11 years in a catatonic stupor being cared for by his mother after having a breakdown hugging a horse in the street in Turin. A meditation on what happens when history's most forceful philosopher of pure will and radical self-determination completely loses his mind in the most undignified way imaginable",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 4,
-      "prompt": "Woodstock was a logistical catastrophe and financial disaster — the festival that defined anti-commercial counterculture couldn't sell tickets properly, the stage nearly collapsed, people got dysentery, and the promoters went bankrupt. And yet it's now one of the most valuable brand names in music history. A look at how spectacular failure became myth became a lifestyle brand worth hundreds of millions",
+      "prompt": "Woodstock was a logistical catastrophe and financial disaster \u2014 the festival that defined anti-commercial counterculture couldn't sell tickets properly, the stage nearly collapsed, people got dysentery, and the promoters went bankrupt. And yet it's now one of the most valuable brand names in music history. A look at how spectacular failure became myth became a lifestyle brand worth hundreds of millions",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 5,
-      "prompt": "Ernest Hemingway defined American masculine toughness — short sentences, stoic men, bullfights, war — while writing most of it from Paris cafés, having his bills paid by his mother into his 30s, and crying frequently in letters to friends. A look at literature's greatest manufactured tough-guy persona and the surprisingly soft, needy biography behind the legend",
+      "prompt": "Ernest Hemingway defined American masculine toughness \u2014 short sentences, stoic men, bullfights, war \u2014 while writing most of it from Paris caf\u00e9s, having his bills paid by his mother into his 30s, and crying frequently in letters to friends. A look at literature's greatest manufactured tough-guy persona and the surprisingly soft, needy biography behind the legend",
       "used": false,
       "published_date": null,
       "article_file": null
@@ -44,28 +44,28 @@
     },
     {
       "id": 7,
-      "prompt": "France has a powerful national mythology of heroic resistance to Nazi occupation — but historians estimate the active resistance involved a small fraction of the population, while hundreds of thousands actively collaborated and millions simply went along with it. A look at how nations build the stories they need after the fact, and the fascinating human psychology behind collective historical reinvention",
+      "prompt": "France has a powerful national mythology of heroic resistance to Nazi occupation \u2014 but historians estimate the active resistance involved a small fraction of the population, while hundreds of thousands actively collaborated and millions simply went along with it. A look at how nations build the stories they need after the fact, and the fascinating human psychology behind collective historical reinvention",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 8,
-      "prompt": "We've collectively agreed that because Picasso moved paint around in interesting ways, we should overlook a well-documented record of psychological abuse, manipulation, and cruelty toward the women in his life — two of whom died by suicide. A look at how artistic genius functions as a kind of moral laundering, and what it says about us that we keep accepting the deal",
+      "prompt": "We've collectively agreed that because Picasso moved paint around in interesting ways, we should overlook a well-documented record of psychological abuse, manipulation, and cruelty toward the women in his life \u2014 two of whom died by suicide. A look at how artistic genius functions as a kind of moral laundering, and what it says about us that we keep accepting the deal",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 9,
-      "prompt": "Karl Marx never worked a factory job in his life — the philosopher who defined the working class struggle was a chronically unemployed intellectual whose family lived in poverty while he wrote in the British Museum, financially kept afloat by his friend Engels, who owned the factories Marx was railing against. A look at the spectacular gap between biography and legacy",
+      "prompt": "Karl Marx never worked a factory job in his life \u2014 the philosopher who defined the working class struggle was a chronically unemployed intellectual whose family lived in poverty while he wrote in the British Museum, financially kept afloat by his friend Engels, who owned the factories Marx was railing against. A look at the spectacular gap between biography and legacy",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 10,
-      "prompt": "Jack Kerouac, the face of the American counterculture who inspired generations of free-spirited wanderers and rebels with On the Road, died a bitter, alcoholic, conservative Catholic Republican watching TV with his mother in Florida and ranting about communists. A look at the enormous gap between a writer's legend and their actual life — and why we need our icons to stay frozen in their best moment",
+      "prompt": "Jack Kerouac, the face of the American counterculture who inspired generations of free-spirited wanderers and rebels with On the Road, died a bitter, alcoholic, conservative Catholic Republican watching TV with his mother in Florida and ranting about communists. A look at the enormous gap between a writer's legend and their actual life \u2014 and why we need our icons to stay frozen in their best moment",
       "used": false,
       "published_date": null,
       "article_file": null
@@ -79,63 +79,63 @@
     },
     {
       "id": 12,
-      "prompt": "Christopher Columbus died in 1506 still insisting he had reached Asia — we built a federal holiday around a man who was catastrophically, stubbornly, documentably wrong about where he was, and refused to update his beliefs even when presented with overwhelming evidence. A meditation on why we celebrate confident wrongness over accurate uncertainty, and where we still do this today",
+      "prompt": "Christopher Columbus died in 1506 still insisting he had reached Asia \u2014 we built a federal holiday around a man who was catastrophically, stubbornly, documentably wrong about where he was, and refused to update his beliefs even when presented with overwhelming evidence. A meditation on why we celebrate confident wrongness over accurate uncertainty, and where we still do this today",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 13,
-      "prompt": "Ayn Rand spent decades constructing a global philosophical movement — Objectivism — built entirely on the rejection of government dependency, collectivism, and altruism. She then quietly enrolled in Medicare and Social Security under a pseudonym when she got lung cancer. A look at the gap between ideology and human vulnerability, and what it means when even the truest true believers quietly hedge their bets",
+      "prompt": "Ayn Rand spent decades constructing a global philosophical movement \u2014 Objectivism \u2014 built entirely on the rejection of government dependency, collectivism, and altruism. She then quietly enrolled in Medicare and Social Security under a pseudonym when she got lung cancer. A look at the gap between ideology and human vulnerability, and what it means when even the truest true believers quietly hedge their bets",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 14,
-      "prompt": "Most of the famous Stoic philosophers were extraordinarily wealthy and powerful — Marcus Aurelius commanded the Roman Empire, Seneca was one of Rome's richest men, Epictetus was a freed slave but his famous students were aristocrats. The ancient philosophy of radical contentment with very little was almost entirely written by, preserved by, and read by people who had everything. A look at history's original self-help genre and its fascinating class problem",
+      "prompt": "Most of the famous Stoic philosophers were extraordinarily wealthy and powerful \u2014 Marcus Aurelius commanded the Roman Empire, Seneca was one of Rome's richest men, Epictetus was a freed slave but his famous students were aristocrats. The ancient philosophy of radical contentment with very little was almost entirely written by, preserved by, and read by people who had everything. A look at history's original self-help genre and its fascinating class problem",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 15,
-      "prompt": "Vincent van Gogh sold exactly one painting during his lifetime and died penniless and largely unknown. He is now one of the most famous artists in history — but almost entirely because his sister-in-law Johanna spent decades after his death on an aggressive, relentless, and brilliantly strategic campaign to promote his work and story. A look at the unsung marketing genius behind the world's most romantic myth of the misunderstood artist",
+      "prompt": "Vincent van Gogh sold exactly one painting during his lifetime and died penniless and largely unknown. He is now one of the most famous artists in history \u2014 but almost entirely because his sister-in-law Johanna spent decades after his death on an aggressive, relentless, and brilliantly strategic campaign to promote his work and story. A look at the unsung marketing genius behind the world's most romantic myth of the misunderstood artist",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 16,
-      "prompt": "Che Guevara was a man who oversaw executions, wrote admiringly about violence, and was documented as holding racist views about Black Africans — and he is now primarily a t-shirt sold at Hot Topic and Urban Outfitters to teenagers who think he looks cool. A look at the strange alchemy by which history's most commodified revolutionary became the perfect symbol of a consumerism he would have despised",
+      "prompt": "Che Guevara was a man who oversaw executions, wrote admiringly about violence, and was documented as holding racist views about Black Africans \u2014 and he is now primarily a t-shirt sold at Hot Topic and Urban Outfitters to teenagers who think he looks cool. A look at the strange alchemy by which history's most commodified revolutionary became the perfect symbol of a consumerism he would have despised",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 17,
-      "prompt": "The Olympics were revived in 1896 as a celebration of international peace, athletic purity, and the idea that sport could transcend politics — and they have since been used as a stage for nationalism, boycotts, state-sponsored doping, political demonstrations, and corporate advertising on a scale that would make the ancient Greeks weep. A look at the world's most elaborate exercise in pretending that sport and politics are separate things",
+      "prompt": "The Olympics were revived in 1896 as a celebration of international peace, athletic purity, and the idea that sport could transcend politics \u2014 and they have since been used as a stage for nationalism, boycotts, state-sponsored doping, political demonstrations, and corporate advertising on a scale that would make the ancient Greeks weep. A look at the world's most elaborate exercise in pretending that sport and politics are separate things",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 18,
-      "prompt": "The American Wild West — gunfighters, outlaws, lawless frontier towns — lasted roughly 20 years and was mostly populated by farmers, merchants, and railroad workers doing paperwork. The famous gunfight at the O.K. Corral lasted about 30 seconds and involved 9 people in a town of 3,000. A look at how a short, mundane period of American history became the country's defining mythology, and who had the most to gain from selling it",
+      "prompt": "The American Wild West \u2014 gunfighters, outlaws, lawless frontier towns \u2014 lasted roughly 20 years and was mostly populated by farmers, merchants, and railroad workers doing paperwork. The famous gunfight at the O.K. Corral lasted about 30 seconds and involved 9 people in a town of 3,000. A look at how a short, mundane period of American history became the country's defining mythology, and who had the most to gain from selling it",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 19,
-      "prompt": "The minimalist lifestyle movement — white walls, capsule wardrobes, owning fewer than 100 things — requires you to throw out everything you own and replace it with more expensive, better-designed versions of the same things, sold to you by brands with very good Instagram aesthetics. A look at how anti-consumerism became its own premium consumer category, and why the visual language of having nothing has never cost more",
+      "prompt": "The minimalist lifestyle movement \u2014 white walls, capsule wardrobes, owning fewer than 100 things \u2014 requires you to throw out everything you own and replace it with more expensive, better-designed versions of the same things, sold to you by brands with very good Instagram aesthetics. A look at how anti-consumerism became its own premium consumer category, and why the visual language of having nothing has never cost more",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 20,
-      "prompt": "The self-help industry generates over $11 billion a year in the United States and the data suggests Americans are more anxious, more lost, and more in need of help than ever before. A look at the only industry that succeeds specifically by failing its customers — where if the product actually worked, you'd buy one book and be done — and the brilliantly designed psychological loop that keeps us coming back for the next one",
+      "prompt": "The self-help industry generates over $11 billion a year in the United States and the data suggests Americans are more anxious, more lost, and more in need of help than ever before. A look at the only industry that succeeds specifically by failing its customers \u2014 where if the product actually worked, you'd buy one book and be done \u2014 and the brilliantly designed psychological loop that keeps us coming back for the next one",
       "used": false,
       "published_date": null,
       "article_file": null
