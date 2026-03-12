@@ -2,56 +2,196 @@
   "articles": [
     {
       "id": 1,
-      "prompt": "What it actually feels like to be a non-technical person surrounded by engineers all day \u2014 the imposter syndrome, the small wins, and what you've learned to stop apologizing for",
+      "prompt": "What it actually feels like to be a non-technical person surrounded by engineers all day — the imposter syndrome, the small wins, and what you've learned to stop apologizing for",
       "used": true,
       "published_date": "2026-03-12",
       "article_file": "blog/2026-03-12-dancing-with-developers-lessons-from-a-non-techie-on-imposte.html"
     },
     {
       "id": 2,
-      "prompt": "How AI tools have changed the way you prep for sales calls and customer meetings \u2014 what works, what doesn't, and where you still rely on gut instinct over automation",
+      "prompt": "A critique of Henry David Thoreau's Walden — the man who wrote the defining book on self-reliance and rejecting civilization quietly left after two years and had been staying on his friend Emerson's property the whole time. What does it mean when our most celebrated champion of independence was basically glamping on borrowed land?",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 3,
-      "prompt": "The honest truth about what data-driven actually means at most companies \u2014 and the gap between what gets measured and what actually matters",
+      "prompt": "How AI tools have changed the way you prep for sales calls and customer meetings — what works, what doesn't, and where you still rely on gut instinct over automation",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 4,
-      "prompt": "What building a side project taught you about product management that no job ever did \u2014 the decisions you didn't expect to have to make",
+      "prompt": "The founding fathers launched a revolution against taxation without representation, then passed the Whiskey Tax within four years and sent an army to collect it. A look at how we built a national mythology around the world's most successful tax protesters who immediately became history's most enthusiastic tax collectors",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 5,
-      "prompt": "The stuff nobody warns you about when you move from individual contributor to managing a team \u2014 what changed, what surprised you, and what you wish you'd done differently",
+      "prompt": "The honest truth about what 'data-driven' actually means at most companies — and the gap between what gets measured and what actually matters",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 6,
-      "prompt": "How to stay relevant in a tech industry that keeps moving the goalposts \u2014 honest advice for people who aren't coders but want to keep up",
+      "prompt": "Karl Marx never worked a factory job in his life — the philosopher who defined the working class struggle was a chronically unemployed intellectual, financially propped up by his friend Engels who owned the factories Marx was railing against. A witty look at the gap between a man's biography and his legacy",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 7,
-      "prompt": "What good onboarding actually looks like from the customer's side \u2014 the moments that made you feel confident versus the moments that made you want to cancel",
+      "prompt": "What building a side project taught you about product management that no job ever did — the decisions you didn't expect to have to make",
       "used": false,
       "published_date": null,
       "article_file": null
     },
     {
       "id": 8,
-      "prompt": "The real reason most SaaS demos fail \u2014 and what a great one actually looks like from someone who has sat through hundreds of them",
+      "prompt": "Woodstock was a logistical catastrophe and financial disaster — the festival that defined anti-commercial counterculture couldn't even sell tickets properly and went bankrupt. And yet it's now one of the most valuable brand names in music history. A look at how failure became myth became merchandise",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 9,
+      "prompt": "The stuff nobody warns you about when you move from individual contributor to managing a team — what changed, what surprised you, and what you wish you'd done differently",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 10,
+      "prompt": "Nietzsche declared God is dead and invented the Superman — then spent his last 11 years in a catatonic stupor being cared for by his mother after having a breakdown hugging a horse in the street. A meditation on what happens when history's most forceful philosopher of pure will completely loses his",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 11,
+      "prompt": "How to stay relevant in a tech industry that keeps moving the goalposts — honest advice for people who aren't coders but want to keep up",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 12,
+      "prompt": "Lance Armstrong won seven Tours de France on drugs, in a sport where effectively everyone was on drugs, and we destroyed him for it while quietly celebrating the sport, the culture, and the era that created him. A look at how we choose our scapegoats and what that says about us",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 13,
+      "prompt": "What good onboarding actually looks like from the customer's side — the moments that made you feel confident versus the moments that made you want to cancel",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 14,
+      "prompt": "Ernest Hemingway defined American masculine toughness from Paris cafés while his mother paid his bills into his 30s. A look at literature's greatest tough-guy persona and the surprisingly soft biography underneath — and what it says about how we build myths around the artists we need",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 15,
+      "prompt": "The real reason most SaaS demos fail — and what a great one actually looks like from someone who has sat through hundreds of them",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 16,
+      "prompt": "The Silicon Valley 'move fast and break things' mythology mostly involved people from elite schools, with family money as a safety net, breaking things that belonged to other people. A look at how disruption became a brand that carefully obscures its own origins and class structure",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 17,
+      "prompt": "France has a powerful national mythology of heroic resistance to Nazi occupation — but historians estimate only a fraction of the population actually participated, while hundreds of thousands actively collaborated. A look at how nations build the stories they need after the fact, and why we let them",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 18,
+      "prompt": "We've collectively decided that because Picasso moved paint around in interesting ways, we should look past a well-documented record of how he treated the women in his life. A look at how artistic genius functions as a kind of moral laundering, and why we keep accepting the deal",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 19,
+      "prompt": "The minimalist lifestyle movement asks you to throw out everything you own and replace it with more expensive, better-designed versions of the same things. A look at how anti-consumerism became its own premium consumer aesthetic — and why the Instagram aesthetic of having nothing costs more than having everything",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 20,
+      "prompt": "Most of the famous Stoic philosophers were extraordinarily wealthy — Marcus Aurelius ran an empire, Seneca was one of Rome's richest men. The ancient philosophy of contentment with little was largely written by people who had everything. A witty look at history's original self-help genre and its class problem",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 21,
+      "prompt": "The self-help industry is the only product category that succeeds specifically by failing — if any of it actually worked, you'd buy one book and be fixed. The entire business model depends on keeping you just broken enough to need the next one. A look at the most brilliantly designed dependency machine in publishing history",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 22,
+      "prompt": "Jack Kerouac, the face of the American counterculture who inspired generations of free-spirited wanderers and rebels, died a bitter conservative Catholic Republican watching TV with his mom in Florida, ranting about communists. A look at the gap between a writer's legend and their actual life",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 23,
+      "prompt": "The Grateful Dead, the band most associated with hippie anti-commercialism and dropping out of society, quietly ran one of the most sophisticated brand licensing and merchandise operations in music history. A look at how they out-corporatized the corporations while everyone was too blissed out to notice",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 24,
+      "prompt": "Christopher Columbus died insisting he had reached Asia — we built a federal holiday around a man who was catastrophically and stubbornly wrong about where he was. A meditation on why we celebrate confidence over accuracy, and what that pattern looks like everywhere else in modern life",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 25,
+      "prompt": "Ayn Rand spent decades building a global philosophical movement against government dependency and collectivism, then quietly enrolled in Medicare and Social Security under a pseudonym when she got sick. A look at the gap between ideology and human vulnerability — and what it means when even the truest believers hedge their bets",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 26,
+      "prompt": "The farm-to-table movement charges $40 for a chicken while the actual farmers who grew it are still going broke. A look at how 'honest food' became a premium branding exercise for urban restaurants, and what gets lost when authenticity becomes a product with a markup",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 27,
+      "prompt": "Steve Jobs preached simplicity, Zen minimalism, and the beauty of restraint while running a supply chain built on labor exploitation and dying with $10 billion. A look at how aesthetic philosophy became the most effective marketing cover story in corporate history",
+      "used": false,
+      "published_date": null,
+      "article_file": null
+    },
+    {
+      "id": 28,
+      "prompt": "The wellness industry is a multi-trillion dollar business with almost no peer-reviewed evidence behind most of its products — and it works largely by manufacturing anxiety about problems it then sells you the solution to. A look at how we got here, why we keep buying in, and what that says about modern life",
       "used": false,
       "published_date": null,
       "article_file": null
