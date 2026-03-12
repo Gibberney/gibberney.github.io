@@ -1,0 +1,18 @@
+services:
+  - type: cron
+    name: auto-blog-generator
+    runtime: python
+    schedule: "0 9 * * 1"
+    buildCommand: pip install -r auto_blog/requirements.txt
+    startCommand: python auto_blog/generate_article.py
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: GITHUB_REPO
+        value: Gibberney/gibberney.github.io
+      - key: GITHUB_BRANCH
+        value: main
+      - key: PROMPTS_FILE_PATH
+        value: auto_blog/prompts.json
