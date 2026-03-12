@@ -100,7 +100,7 @@ Your output must be a single valid JSON object with exactly these fields:
                  and <h2> tags only. No <html>, <head>, <body>, or wrapper tags.
                  Write 650–900 words. Sound like Mike — not a blogger or marketer.
 
-Output ONLY the raw JSON object. No markdown. No code fences. No explanation."""
+Output ONLY the raw JSON object. No markdown. No code fences. No explanation. DO NOT USE EM-DASHES EVER"""
 
 
 def generate_article(prompt_text):
