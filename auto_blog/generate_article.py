@@ -178,7 +178,7 @@ def build_html_page(article, pub_date_str):
 
   {article['html_body']}
 
-  <p class="ai-note">This article was written by AI based on a topic I chose. The voice is meant to be mine — make of that what you will.</p>
+  <p class="ai-note">This article was written by AI based on a topic I chose. The voice is meant to be mine. Make of that what you will.</p>
 
   <footer>&copy; 2025 Mike Gibney</footer>
 </body>
@@ -196,7 +196,7 @@ def update_index_html(index_html, title, description, filename, pub_date_str):
     new_entry = (
         f"    <li>\n"
         f"      <a href=\"blog/{filename}\">{title}</a>\n"
-        f"      <small>{description} &mdash; {pub_date_str}</small>\n"
+        f"      <small>{description}</small>\n"
         f"    </li>\n"
         f"    <!-- AUTO_BLOG_INSERT -->"
     )
