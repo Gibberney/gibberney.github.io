@@ -10,9 +10,9 @@
     {
       "id": 2,
       "prompt": "The founding fathers launched a revolution against taxation without representation, then passed the Whiskey Tax within four years and sent an army to collect it from farmers. A witty look at how we built a national mythology around the world's most successful tax protesters who immediately became history's most enthusiastic tax collectors the moment they were in charge",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-03-12",
+      "article_file": "blog/2026-03-12-the-whiskey-tax-when-revolutionary-rebels-became-the-taxman.html"
     },
     {
       "id": 3,
