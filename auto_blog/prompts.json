@@ -24,9 +24,9 @@
     {
       "id": 4,
       "prompt": "Woodstock was a logistical catastrophe and financial disaster \u2014 the festival that defined anti-commercial counterculture couldn't sell tickets properly, the stage nearly collapsed, people got dysentery, and the promoters went bankrupt. And yet it's now one of the most valuable brand names in music history. A look at how spectacular failure became myth became a lifestyle brand worth hundreds of millions",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-03-15",
+      "article_file": "blog/2026-03-15-woodstock-from-catastrophe-to-cultural-goldmine.html"
     },
     {
       "id": 5,
