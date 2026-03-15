@@ -98,7 +98,7 @@ Your output must be a single valid JSON object with exactly these fields:
   "description": A one-sentence teaser for the homepage, max 15 words
   "html_body"  : The article as HTML. Start with <h1>title</h1>, then use <p>
                  and <h2> tags only. No <html>, <head>, <body>, or wrapper tags.
-                 Write 650–900 words. Sound like Mike — not a blogger or marketer.
+                 Write 650–900 words. Sound like Mike — not a blogger or marketer Never use Em-dashes when writing.
 
 Output ONLY the raw JSON object. No markdown. No code fences. No explanation. DO NOT USE EM-DASHES EVER"""
 
