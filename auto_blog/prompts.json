@@ -31,9 +31,9 @@
     {
       "id": 5,
       "prompt": "Ernest Hemingway defined American masculine toughness \u2014 short sentences, stoic men, bullfights, war \u2014 while writing most of it from Paris caf\u00e9s, having his bills paid by his mother into his 30s, and crying frequently in letters to friends. A look at literature's greatest manufactured tough-guy persona and the surprisingly soft, needy biography behind the legend",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-03-16",
+      "article_file": "blog/2026-03-16-hemingways-tough-guy-mask-more-paris-caf\u00e9s-than-bullfights.html"
     },
     {
       "id": 6,
