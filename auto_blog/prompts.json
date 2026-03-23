@@ -38,9 +38,9 @@
     {
       "id": 6,
       "prompt": "Lance Armstrong won seven Tours de France on drugs, in a sport where the evidence suggests almost everyone was on drugs, and we destroyed him for it while quietly celebrating the sport, the era, and the culture that made it all possible. A look at how societies pick their scapegoats, what Lance actually represents, and why we needed a villain more than we needed the truth",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-03-23",
+      "article_file": "blog/2026-03-23-lance-armstrong-the-scapegoat-we-needed.html"
     },
     {
       "id": 7,
