@@ -45,9 +45,9 @@
     {
       "id": 7,
       "prompt": "France has a powerful national mythology of heroic resistance to Nazi occupation \u2014 but historians estimate the active resistance involved a small fraction of the population, while hundreds of thousands actively collaborated and millions simply went along with it. A look at how nations build the stories they need after the fact, and the fascinating human psychology behind collective historical reinvention",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-03-30",
+      "article_file": "blog/2026-03-30-france-the-myth-of-resistance-and-the-stories-we-tell.html"
     },
     {
       "id": 8,
