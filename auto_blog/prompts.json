@@ -52,9 +52,9 @@
     {
       "id": 8,
       "prompt": "We've collectively agreed that because Picasso moved paint around in interesting ways, we should overlook a well-documented record of psychological abuse, manipulation, and cruelty toward the women in his life \u2014 two of whom died by suicide. A look at how artistic genius functions as a kind of moral laundering, and what it says about us that we keep accepting the deal",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-04-06",
+      "article_file": "blog/2026-04-06-why-do-we-keep-giving-picasso-a-free-pass.html"
     },
     {
       "id": 9,
