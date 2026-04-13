@@ -59,9 +59,9 @@
     {
       "id": 9,
       "prompt": "Karl Marx never worked a factory job in his life \u2014 the philosopher who defined the working class struggle was a chronically unemployed intellectual whose family lived in poverty while he wrote in the British Museum, financially kept afloat by his friend Engels, who owned the factories Marx was railing against. A look at the spectacular gap between biography and legacy",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-04-13",
+      "article_file": "blog/2026-04-13-karl-marx-the-pen-the-poverty-and-the-paradox.html"
     },
     {
       "id": 10,
