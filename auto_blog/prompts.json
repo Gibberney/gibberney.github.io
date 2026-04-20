@@ -66,9 +66,9 @@
     {
       "id": 10,
       "prompt": "Jack Kerouac, the face of the American counterculture who inspired generations of free-spirited wanderers and rebels with On the Road, died a bitter, alcoholic, conservative Catholic Republican watching TV with his mother in Florida and ranting about communists. A look at the enormous gap between a writer's legend and their actual life \u2014 and why we need our icons to stay frozen in their best moment",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-04-20",
+      "article_file": "blog/2026-04-20-kerouac-icons-and-the-beauty-of-frozen-legends.html"
     },
     {
       "id": 11,
