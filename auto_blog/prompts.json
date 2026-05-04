@@ -80,9 +80,9 @@
     {
       "id": 12,
       "prompt": "Christopher Columbus died in 1506 still insisting he had reached Asia \u2014 we built a federal holiday around a man who was catastrophically, stubbornly, documentably wrong about where he was, and refused to update his beliefs even when presented with overwhelming evidence. A meditation on why we celebrate confident wrongness over accurate uncertainty, and where we still do this today",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-05-04",
+      "article_file": "blog/2026-05-04-confidently-wrong-celebrating-columbus-and-other-illusions.html"
     },
     {
       "id": 13,
