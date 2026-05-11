@@ -87,9 +87,9 @@
     {
       "id": 13,
       "prompt": "Ayn Rand spent decades constructing a global philosophical movement \u2014 Objectivism \u2014 built entirely on the rejection of government dependency, collectivism, and altruism. She then quietly enrolled in Medicare and Social Security under a pseudonym when she got lung cancer. A look at the gap between ideology and human vulnerability, and what it means when even the truest true believers quietly hedge their bets",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-05-11",
+      "article_file": "blog/2026-05-11-ayn-rand-medicare-and-the-reality-check-of-ideology.html"
     },
     {
       "id": 14,
