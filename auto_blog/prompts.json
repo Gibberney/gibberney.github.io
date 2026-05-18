@@ -94,9 +94,9 @@
     {
       "id": 14,
       "prompt": "Most of the famous Stoic philosophers were extraordinarily wealthy and powerful \u2014 Marcus Aurelius commanded the Roman Empire, Seneca was one of Rome's richest men, Epictetus was a freed slave but his famous students were aristocrats. The ancient philosophy of radical contentment with very little was almost entirely written by, preserved by, and read by people who had everything. A look at history's original self-help genre and its fascinating class problem",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-05-18",
+      "article_file": "blog/2026-05-18-stoicism-the-philosophy-of-the-rich-and-famous.html"
     },
     {
       "id": 15,
