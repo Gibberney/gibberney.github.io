@@ -101,9 +101,9 @@
     {
       "id": 15,
       "prompt": "Vincent van Gogh sold exactly one painting during his lifetime and died penniless and largely unknown. He is now one of the most famous artists in history \u2014 but almost entirely because his sister-in-law Johanna spent decades after his death on an aggressive, relentless, and brilliantly strategic campaign to promote his work and story. A look at the unsung marketing genius behind the world's most romantic myth of the misunderstood artist",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-06-01",
+      "article_file": "blog/2026-06-01-the-hidden-champion-behind-vincent-van-goghs-immortal-legacy.html"
     },
     {
       "id": 16,
