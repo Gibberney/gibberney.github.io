@@ -108,9 +108,9 @@
     {
       "id": 16,
       "prompt": "Che Guevara was a man who oversaw executions, wrote admiringly about violence, and was documented as holding racist views about Black Africans \u2014 and he is now primarily a t-shirt sold at Hot Topic and Urban Outfitters to teenagers who think he looks cool. A look at the strange alchemy by which history's most commodified revolutionary became the perfect symbol of a consumerism he would have despised",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-06-08",
+      "article_file": "blog/2026-06-08-from-revolutionary-to-retail-the-odd-journey-of-che-guevara.html"
     },
     {
       "id": 17,
