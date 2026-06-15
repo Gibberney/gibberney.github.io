@@ -115,9 +115,9 @@
     {
       "id": 17,
       "prompt": "The Olympics were revived in 1896 as a celebration of international peace, athletic purity, and the idea that sport could transcend politics \u2014 and they have since been used as a stage for nationalism, boycotts, state-sponsored doping, political demonstrations, and corporate advertising on a scale that would make the ancient Greeks weep. A look at the world's most elaborate exercise in pretending that sport and politics are separate things",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-06-15",
+      "article_file": "blog/2026-06-15-the-olympics-sport-politics-and-the-theater-of-international.html"
     },
     {
       "id": 18,
