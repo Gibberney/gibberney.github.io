@@ -122,9 +122,9 @@
     {
       "id": 18,
       "prompt": "The American Wild West \u2014 gunfighters, outlaws, lawless frontier towns \u2014 lasted roughly 20 years and was mostly populated by farmers, merchants, and railroad workers doing paperwork. The famous gunfight at the O.K. Corral lasted about 30 seconds and involved 9 people in a town of 3,000. A look at how a short, mundane period of American history became the country's defining mythology, and who had the most to gain from selling it",
-      "used": false,
-      "published_date": null,
-      "article_file": null
+      "used": true,
+      "published_date": "2026-06-22",
+      "article_file": "blog/2026-06-22-the-wild-west-reality-myth-and-the-american-story.html"
     },
     {
       "id": 19,
